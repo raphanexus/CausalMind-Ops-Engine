@@ -1,9 +1,7 @@
-# CausalMind-Ops-Engine
-
 Project for
 Google for Startups AI Agents Challenge
 
-CausalMind Ops Engine
+#CausalMind Ops Engine
 Autonomous Reliability Engineering for the Production Data Stack
 
 Description
